@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body{
+   background-color: #FCDB58;
+}
+.navbar img{
+    width: 15vw;
+    margin-top: 1%;
+   
+}
+.navbar button{
+    background: none;
+    background-color: #8C52FF;
+    border: #8C52FF;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 10vw;
+    justify-content: space-between;
+    
+}
+.navbar {
+   
+    margin-left: 60%;
+}
+
+.texto1 h1{
+    font-size: 50px;
+    margin-left: 8%;
+    margin-top: 5%;
+   
+   color: #221F30;
+
+}
+.texto1 p{
+    margin-left: 15%;
+    font-size: 23px;
+   
+    margin-top: 5%;
+}
+.nos img{
+    width: 40vw;
+    margin-top: 2%;
+    
+  
+}
+section{
+    display: flex;
+    margin-right: 15%;
+    margin-left: 5%;
+    margin-top: 3%;
+
+}
+
+footer{
+    margin-top: 5%;
+}
